@@ -1,0 +1,483 @@
+{
+    // Use IntelliSense para saber los atributos posibles.
+    // Mantenga el puntero para ver las descripciones de los existentes atributos.
+    // Para más información, visite: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "piramide",
+            "request": "launch",
+            "mainClass": "piramide",
+            "projectName": "Ejercicios JavaVisualStudio_Pruebas_1b35da77"
+        },
+        {
+            "type": "java",
+            "name": "ejerDiez",
+            "request": "launch",
+            "mainClass": "ejerDiez",
+            "projectName": "Ejercicios JavaVisualStudio_Pruebas_1b35da77"
+        },
+        {
+            "type": "java",
+            "name": "piramide",
+            "request": "launch",
+            "mainClass": "piramide",
+            "projectName": "Ejercicios JavaVisualStudio_Pruebas_354caa1e"
+        },
+        {
+            "type": "java",
+            "name": "cifradoCesar",
+            "request": "launch",
+            "mainClass": "cifradoCesar",
+            "projectName": "Ejercicios JavaVisualStudio_Pruebas_354caa1e"
+        },
+        {
+            "type": "java",
+            "name": "ejerPractice",
+            "request": "launch",
+            "mainClass": "ejerPractice",
+            "projectName": "Ejercicios JavaVisualStudio_Pruebas_354caa1e"
+        },
+        {
+            "type": "java",
+            "name": "maine",
+            "request": "launch",
+            "mainClass": "POO.maine",
+            "projectName": "Ejercicios JavaVisualStudio_Pruebas_354caa1e"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Excersise",
+            "request": "launch",
+            "mainClass": "Excersise",
+            "projectName": "Ejercicios JavaVisualStudio_Pruebas_354caa1e"
+        },
+        {
+            "type": "java",
+            "name": "ExcersiseDos",
+            "request": "launch",
+            "mainClass": "ExcersiseDos",
+            "projectName": "Ejercicios JavaVisualStudio_Pruebas_354caa1e"
+        },
+        {
+            "type": "java",
+            "name": "ExersiseTres",
+            "request": "launch",
+            "mainClass": "ExersiseTres",
+            "projectName": "Ejercicios JavaVisualStudio_Pruebas_354caa1e"
+        },
+        {
+            "type": "java",
+            "name": "ExplicacionUno",
+            "request": "launch",
+            "mainClass": "ExplicacionUno",
+            "projectName": "Ejercicios JavaVisualStudio_Pruebas_354caa1e"
+        },
+        {
+            "type": "java",
+            "name": "Moda_Media_Mediana",
+            "request": "launch",
+            "mainClass": "Moda_Media_Mediana",
+            "projectName": "Ejercicios JavaVisualStudio_Pruebas_354caa1e"
+        },
+        {
+            "type": "java",
+            "name": "coche",
+            "request": "launch",
+            "mainClass": "POO.coche",
+            "projectName": "Ejercicios JavaVisualStudio_Pruebas_354caa1e"
+        },
+        {
+            "type": "java",
+            "name": "arregloClase",
+            "request": "launch",
+            "mainClass": "arrays.arregloClase",
+            "projectName": "Ejercicios JavaVisualStudio_Pruebas_354caa1e"
+        },
+        {
+            "type": "java",
+            "name": "arregloClase16",
+            "request": "launch",
+            "mainClass": "arrays.arregloClase16",
+            "projectName": "Ejercicios JavaVisualStudio_Pruebas_354caa1e"
+        },
+        {
+            "type": "java",
+            "name": "arregloClase17",
+            "request": "launch",
+            "mainClass": "arrays.arregloClase17",
+            "projectName": "Ejercicios JavaVisualStudio_Pruebas_354caa1e"
+        },
+        {
+            "type": "java",
+            "name": "arregloClase18",
+            "request": "launch",
+            "mainClass": "arrays.arregloClase18",
+            "projectName": "Ejercicios JavaVisualStudio_Pruebas_354caa1e"
+        },
+        {
+            "type": "java",
+            "name": "arregloClase19",
+            "request": "launch",
+            "mainClass": "arrays.arregloClase19",
+            "projectName": "Ejercicios JavaVisualStudio_Pruebas_354caa1e"
+        },
+        {
+            "type": "java",
+            "name": "arregloClase20",
+            "request": "launch",
+            "mainClass": "arrays.arregloClase20",
+            "projectName": "Ejercicios JavaVisualStudio_Pruebas_354caa1e"
+        },
+        {
+            "type": "java",
+            "name": "arregloClaseCator",
+            "request": "launch",
+            "mainClass": "arrays.arregloClaseCator",
+            "projectName": "Ejercicios JavaVisualStudio_Pruebas_354caa1e"
+        },
+        {
+            "type": "java",
+            "name": "arregloClaseCinco",
+            "request": "launch",
+            "mainClass": "arrays.arregloClaseCinco",
+            "projectName": "Ejercicios JavaVisualStudio_Pruebas_354caa1e"
+        },
+        {
+            "type": "java",
+            "name": "arregloClaseCuatro",
+            "request": "launch",
+            "mainClass": "arrays.arregloClaseCuatro",
+            "projectName": "Ejercicios JavaVisualStudio_Pruebas_354caa1e"
+        },
+        {
+            "type": "java",
+            "name": "arregloClaseDiez",
+            "request": "launch",
+            "mainClass": "arrays.arregloClaseDiez",
+            "projectName": "Ejercicios JavaVisualStudio_Pruebas_354caa1e"
+        },
+        {
+            "type": "java",
+            "name": "arregloClaseDoce",
+            "request": "launch",
+            "mainClass": "arrays.arregloClaseDoce",
+            "projectName": "Ejercicios JavaVisualStudio_Pruebas_354caa1e"
+        },
+        {
+            "type": "java",
+            "name": "arregloClaseDos",
+            "request": "launch",
+            "mainClass": "arrays.arregloClaseDos",
+            "projectName": "Ejercicios JavaVisualStudio_Pruebas_354caa1e"
+        },
+        {
+            "type": "java",
+            "name": "arregloClaseNueve",
+            "request": "launch",
+            "mainClass": "arrays.arregloClaseNueve",
+            "projectName": "Ejercicios JavaVisualStudio_Pruebas_354caa1e"
+        },
+        {
+            "type": "java",
+            "name": "arregloClaseOcho",
+            "request": "launch",
+            "mainClass": "arrays.arregloClaseOcho",
+            "projectName": "Ejercicios JavaVisualStudio_Pruebas_354caa1e"
+        },
+        {
+            "type": "java",
+            "name": "arregloClaseOnce",
+            "request": "launch",
+            "mainClass": "arrays.arregloClaseOnce",
+            "projectName": "Ejercicios JavaVisualStudio_Pruebas_354caa1e"
+        },
+        {
+            "type": "java",
+            "name": "arregloClaseQuince",
+            "request": "launch",
+            "mainClass": "arrays.arregloClaseQuince",
+            "projectName": "Ejercicios JavaVisualStudio_Pruebas_354caa1e"
+        },
+        {
+            "type": "java",
+            "name": "arregloClaseSeisYSiete",
+            "request": "launch",
+            "mainClass": "arrays.arregloClaseSeisYSiete",
+            "projectName": "Ejercicios JavaVisualStudio_Pruebas_354caa1e"
+        },
+        {
+            "type": "java",
+            "name": "arregloClaseTrece",
+            "request": "launch",
+            "mainClass": "arrays.arregloClaseTrece",
+            "projectName": "Ejercicios JavaVisualStudio_Pruebas_354caa1e"
+        },
+        {
+            "type": "java",
+            "name": "arregloClaseTres",
+            "request": "launch",
+            "mainClass": "arrays.arregloClaseTres",
+            "projectName": "Ejercicios JavaVisualStudio_Pruebas_354caa1e"
+        },
+        {
+            "type": "java",
+            "name": "arregloUno",
+            "request": "launch",
+            "mainClass": "arrays.arregloUno",
+            "projectName": "Ejercicios JavaVisualStudio_Pruebas_354caa1e"
+        },
+        {
+            "type": "java",
+            "name": "bucleForEach",
+            "request": "launch",
+            "mainClass": "arrays.bucleForEach",
+            "projectName": "Ejercicios JavaVisualStudio_Pruebas_354caa1e"
+        },
+        {
+            "type": "java",
+            "name": "cajero",
+            "request": "launch",
+            "mainClass": "arrays.cajero",
+            "projectName": "Ejercicios JavaVisualStudio_Pruebas_354caa1e"
+        },
+        {
+            "type": "java",
+            "name": "excerCinco",
+            "request": "launch",
+            "mainClass": "arrays.excerCinco",
+            "projectName": "Ejercicios JavaVisualStudio_Pruebas_354caa1e"
+        },
+        {
+            "type": "java",
+            "name": "excerCuatro",
+            "request": "launch",
+            "mainClass": "arrays.excerCuatro",
+            "projectName": "Ejercicios JavaVisualStudio_Pruebas_354caa1e"
+        },
+        {
+            "type": "java",
+            "name": "excerDos",
+            "request": "launch",
+            "mainClass": "arrays.excerDos",
+            "projectName": "Ejercicios JavaVisualStudio_Pruebas_354caa1e"
+        },
+        {
+            "type": "java",
+            "name": "excerTres",
+            "request": "launch",
+            "mainClass": "arrays.excerTres",
+            "projectName": "Ejercicios JavaVisualStudio_Pruebas_354caa1e"
+        },
+        {
+            "type": "java",
+            "name": "excerUno",
+            "request": "launch",
+            "mainClass": "arrays.excerUno",
+            "projectName": "Ejercicios JavaVisualStudio_Pruebas_354caa1e"
+        },
+        {
+            "type": "java",
+            "name": "array1",
+            "request": "launch",
+            "mainClass": "arregloClaseUno.array1",
+            "projectName": "Ejercicios JavaVisualStudio_Pruebas_354caa1e"
+        },
+        {
+            "type": "java",
+            "name": "array1function",
+            "request": "launch",
+            "mainClass": "arregloClaseUno.array1function",
+            "projectName": "Ejercicios JavaVisualStudio_Pruebas_354caa1e"
+        },
+        {
+            "type": "java",
+            "name": "array2",
+            "request": "launch",
+            "mainClass": "arregloClaseUno.array2",
+            "projectName": "Ejercicios JavaVisualStudio_Pruebas_354caa1e"
+        },
+        {
+            "type": "java",
+            "name": "array2function",
+            "request": "launch",
+            "mainClass": "arregloClaseUno.array2function",
+            "projectName": "Ejercicios JavaVisualStudio_Pruebas_354caa1e"
+        },
+        {
+            "type": "java",
+            "name": "dias",
+            "request": "launch",
+            "mainClass": "dias",
+            "projectName": "Ejercicios JavaVisualStudio_Pruebas_354caa1e"
+        },
+        {
+            "type": "java",
+            "name": "ejerCinco",
+            "request": "launch",
+            "mainClass": "ejerCinco",
+            "projectName": "Ejercicios JavaVisualStudio_Pruebas_354caa1e"
+        },
+        {
+            "type": "java",
+            "name": "ejerCuatro",
+            "request": "launch",
+            "mainClass": "ejerCuatro",
+            "projectName": "Ejercicios JavaVisualStudio_Pruebas_354caa1e"
+        },
+        {
+            "type": "java",
+            "name": "ejerDiez",
+            "request": "launch",
+            "mainClass": "ejerDiez",
+            "projectName": "Ejercicios JavaVisualStudio_Pruebas_354caa1e"
+        },
+        {
+            "type": "java",
+            "name": "ejerDoce",
+            "request": "launch",
+            "mainClass": "ejerDoce",
+            "projectName": "Ejercicios JavaVisualStudio_Pruebas_354caa1e"
+        },
+        {
+            "type": "java",
+            "name": "ejerDos",
+            "request": "launch",
+            "mainClass": "ejerDos",
+            "projectName": "Ejercicios JavaVisualStudio_Pruebas_354caa1e"
+        },
+        {
+            "type": "java",
+            "name": "ejerNueve",
+            "request": "launch",
+            "mainClass": "ejerNueve",
+            "projectName": "Ejercicios JavaVisualStudio_Pruebas_354caa1e"
+        },
+        {
+            "type": "java",
+            "name": "ejerOcho",
+            "request": "launch",
+            "mainClass": "ejerOcho",
+            "projectName": "Ejercicios JavaVisualStudio_Pruebas_354caa1e"
+        },
+        {
+            "type": "java",
+            "name": "ejerOnce",
+            "request": "launch",
+            "mainClass": "ejerOnce",
+            "projectName": "Ejercicios JavaVisualStudio_Pruebas_354caa1e"
+        },
+        {
+            "type": "java",
+            "name": "ejerSeis",
+            "request": "launch",
+            "mainClass": "ejerSeis",
+            "projectName": "Ejercicios JavaVisualStudio_Pruebas_354caa1e"
+        },
+        {
+            "type": "java",
+            "name": "ejerSiete",
+            "request": "launch",
+            "mainClass": "ejerSiete",
+            "projectName": "Ejercicios JavaVisualStudio_Pruebas_354caa1e"
+        },
+        {
+            "type": "java",
+            "name": "ejerTrece",
+            "request": "launch",
+            "mainClass": "ejerTrece",
+            "projectName": "Ejercicios JavaVisualStudio_Pruebas_354caa1e"
+        },
+        {
+            "type": "java",
+            "name": "ejerTres",
+            "request": "launch",
+            "mainClass": "ejerTres",
+            "projectName": "Ejercicios JavaVisualStudio_Pruebas_354caa1e"
+        },
+        {
+            "type": "java",
+            "name": "ejerUno",
+            "request": "launch",
+            "mainClass": "ejerUno",
+            "projectName": "Ejercicios JavaVisualStudio_Pruebas_354caa1e"
+        },
+        {
+            "type": "java",
+            "name": "fresco",
+            "request": "launch",
+            "mainClass": "fresco",
+            "projectName": "Ejercicios JavaVisualStudio_Pruebas_354caa1e"
+        },
+        {
+            "type": "java",
+            "name": "metodoOrdenamientoBS",
+            "request": "launch",
+            "mainClass": "metodoOrdenamientoBS",
+            "projectName": "Ejercicios JavaVisualStudio_Pruebas_354caa1e"
+        },
+        {
+            "type": "java",
+            "name": "metodoOrdenamientoInsert",
+            "request": "launch",
+            "mainClass": "metodoOrdenamientoInsert",
+            "projectName": "Ejercicios JavaVisualStudio_Pruebas_354caa1e"
+        },
+        {
+            "type": "java",
+            "name": "play",
+            "request": "launch",
+            "mainClass": "play",
+            "projectName": "Ejercicios JavaVisualStudio_Pruebas_354caa1e"
+        },
+        {
+            "type": "java",
+            "name": "swichDos",
+            "request": "launch",
+            "mainClass": "swichDos",
+            "projectName": "Ejercicios JavaVisualStudio_Pruebas_354caa1e"
+        },
+        {
+            "type": "java",
+            "name": "switchP",
+            "request": "launch",
+            "mainClass": "switchP",
+            "projectName": "Ejercicios JavaVisualStudio_Pruebas_354caa1e"
+        },
+        {
+            "type": "java",
+            "name": "usoDoWhile",
+            "request": "launch",
+            "mainClass": "usoDoWhile",
+            "projectName": "Ejercicios JavaVisualStudio_Pruebas_354caa1e"
+        },
+        {
+            "type": "java",
+            "name": "usoMientras",
+            "request": "launch",
+            "mainClass": "usoMientras",
+            "projectName": "Ejercicios JavaVisualStudio_Pruebas_354caa1e"
+        },
+        {
+            "type": "java",
+            "name": "usoPara",
+            "request": "launch",
+            "mainClass": "usoPara",
+            "projectName": "Ejercicios JavaVisualStudio_Pruebas_354caa1e"
+        },
+        {
+            "type": "java",
+            "name": "yoPizarra",
+            "request": "launch",
+            "mainClass": "yoPizarra",
+            "projectName": "Ejercicios JavaVisualStudio_Pruebas_354caa1e"
+        }
+    ]
+}

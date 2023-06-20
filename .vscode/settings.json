@@ -1,0 +1,5 @@
+{
+  "terminal.integrated.fontFamily": "Cascadia Mono",
+"terminal.integrated.fontSize": 16,
+"editor.fontFamily": "Cascadia Mono",
+}
