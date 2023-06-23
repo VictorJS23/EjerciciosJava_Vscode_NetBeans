@@ -1,4 +1,4 @@
-public class xd {
+public class secuenciaCreciente {
     public static void main(String[] args) {
         int[] arreglo1 = { 1, 3, 2, 4, 8, 7, 9 };
         int[] arreglo2 = { 1, 3, 2, 4, 8, 7, 9, 11, 25, 200 };
