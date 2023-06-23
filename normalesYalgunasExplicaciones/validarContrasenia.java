@@ -9,38 +9,54 @@ public class validarContrasenia {
          * letra minúscula, un número y un carácter especial.
          */
 
-        Scanner scanner = new Scanner(System.in);
+        Scanner input = new Scanner(System.in);
 
-        String probable;
+        System.out.println("Ingresa tu contraseña : \n");
+        String password = input.nextLine(); // Cambia esta cadena por la contraseña que desees verificar
 
-        String[] contrasenia = new String[5];
-
-        int indice = 0;
-
-        while (indice < 5) {
-
-            System.out.println("ingrese una contrasenia de  8 digitos  que no contenga la z: ");
-
-            probable = scanner.nextLine();
-
-            if (probable.length() < 8 || probable.contains("z")) {
-
-                System.out.println("la contrasenia no es apta");
-
-            } else {
-
-                System.out.println("su contrasenia es apta");
-                contrasenia[indice] = probable;
-                indice++;
-
-            }
-
-            for (int i = 0; i < contrasenia.length; i++) {
-                System.out.println(contrasenia[i]);
-            }
+        if (validarContraseña(password)) {
+            System.out.println("La contraseña es segura.");
+        } else {
+            System.out.println("La contraseña no cumple con los requisitos de seguridad.");
         }
 
-        scanner.close();
+        input.close();
+    }
 
+    public static boolean validarContraseña(String contraseña) {
+        // Verificar la longitud mínima de la contraseña
+        if (contraseña.length() < 8) {
+            return false;
+        }
+
+        boolean tieneMayuscula = false;
+        boolean tieneMinuscula = false;
+        boolean tieneNumero = false;
+        boolean tieneCaracterEspecial = false;
+
+        // Verificar cada carácter de la contraseña
+        for (int i = 0; i < contraseña.length(); i++) {
+            char c = contraseña.charAt(i);
+
+            // Verificar si el carácter es una letra mayúscula
+            if (Character.isUpperCase(c)) {
+                tieneMayuscula = true;
+            }
+            // Verificar si el carácter es una letra minúscula
+            else if (Character.isLowerCase(c)) {
+                tieneMinuscula = true;
+            }
+            // Verificar si el carácter es un número
+            else if (Character.isDigit(c)) {
+                tieneNumero = true;
+            }
+            // Verificar si el carácter es un carácter especial
+            else if (!Character.isLetterOrDigit(c)) {
+                tieneCaracterEspecial = true;
+            }
+
+        }
+
+        return tieneMayuscula && tieneMinuscula && tieneNumero && tieneCaracterEspecial;
     }
 }
