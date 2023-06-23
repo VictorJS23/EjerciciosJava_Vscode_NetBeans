@@ -1,9 +1,12 @@
 public class secuenciaCreciente {
     public static void main(String[] args) {
+
         int[] arreglo1 = { 1, 3, 2, 4, 8, 7, 9 };
+
         int[] arreglo2 = { 1, 3, 2, 4, 8, 7, 9, 11, 25, 200 };
 
         int[] secuencia1 = encontrarSecuenciaCreciente(arreglo1);
+
         int[] secuencia2 = encontrarSecuenciaCreciente(arreglo2);
 
         System.out.println("Secuencia creciente más larga en arreglo1:");
@@ -14,6 +17,7 @@ public class secuenciaCreciente {
     }
 
     public static int[] encontrarSecuenciaCreciente(int[] arreglo) {
+
         int longitudMaxima = 0;
         int indiceInicio = 0;
 
