@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Collatz",
+            "request": "launch",
+            "mainClass": "Collatz",
+            "projectName": "EjerciciosJava_Vscode_NetBeans_c490b9c9"
+        },
+        {
+            "type": "java",
             "name": "comunes",
             "request": "launch",
             "mainClass": "comunes",
