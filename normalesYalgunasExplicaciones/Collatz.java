@@ -24,18 +24,22 @@ public class Collatz {
         System.out.println("Ingrese un numero: ");
         int num = input.nextInt();
 
-        System.out.println("\nLa sucesion de collatz del numero | " + num + " | es:\n ");
+        if (num >= 1) {
+            System.out.println("\nLa sucesion de collatz del numero | " + num + " | es:\n ");
 
-        System.out.print("| " + num + " | = ");
+            System.out.print("| " + num + " | = ");
 
-        for (int i = num; i != 1;) {
-            if (i % 2 == 0) {
-                i /= 2;
-                System.out.print(i + " -> ");
-            } else {
-                i = (3 * i) + 1;
-                System.out.print(i + " -> ");
+            for (int i = num; i != 1;) {
+                if (i % 2 == 0) {
+                    i /= 2;
+                    System.out.print(i + " -> ");
+                } else {
+                    i = (3 * i) + 1;
+                    System.out.print(i + " -> ");
+                }
             }
+        } else {
+            System.out.println("\nEl numero ingresado no es valido, debe ser positivo y mayor a 0.");
         }
 
         System.out.println();
