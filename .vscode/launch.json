@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "anagrama",
+            "request": "launch",
+            "mainClass": "anagrama",
+            "projectName": "EjerciciosJava_Vscode_NetBeans_830d6ee6"
+        },
+        {
+            "type": "java",
             "name": "Collatz",
             "request": "launch",
             "mainClass": "Collatz",
