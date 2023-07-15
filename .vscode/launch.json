@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "cajero",
+            "request": "launch",
+            "mainClass": "arrays.cajero",
+            "projectName": "EjerciciosJava_Vscode_NetBeans_830d6ee6"
+        },
+        {
+            "type": "java",
             "name": "cadenaComprimida",
             "request": "launch",
             "mainClass": "cadenaComprimida",
