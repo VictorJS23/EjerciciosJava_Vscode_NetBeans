@@ -21,6 +21,7 @@ public class nomina {
         float[] salarios = new float[cantEmpleados];
         System.out.println("Ingrese los salarios correspondientes cada trabajador :\n ");
         for (int i = 0; i < salarios.length; i++) {
+            System.out.print(nombres[i] + " --> ");
             salarios[i] = input.nextFloat();
         }
         System.out.println("");
